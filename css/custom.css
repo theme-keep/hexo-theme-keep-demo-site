@@ -1,0 +1,9 @@
+:root {
+    /*
+      设置文章中的图片排列位置
+      居左：0 auto 0 0（默认）
+      居中：0 auto
+      居右：0 0 0 auto
+   */
+    --post-img-align: 0 auto;
+}
